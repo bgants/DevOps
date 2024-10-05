@@ -17,10 +17,9 @@ def add_cli(a, b):
         a: First number
         b: Second number
     Example:
-        $ ./main.py add 2 3        
+        $ ./main.py add 2 3
     """
     click.echo(add(a, b))
-    var=
 
 
 if __name__ == "__main__":
